@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+pandas>=2.2.0
+scikit-learn
+pyLDAvis
+joblib
+matplotlib
+wordcloud
+numpy
+nltk
+Sastrawi
+gensim
+google-play-scraper
