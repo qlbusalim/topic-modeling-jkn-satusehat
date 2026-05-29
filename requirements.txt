@@ -1,7 +1,7 @@
-streamlit>=1.32.0
-pandas>=2.2.0
+streamlit
+pandas
 scikit-learn
-pyLDAvis
+pyLDAvis>=3.4.1
 joblib
 matplotlib
 wordcloud
